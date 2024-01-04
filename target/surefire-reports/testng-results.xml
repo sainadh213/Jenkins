@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-04T06:47:16Z" name="Command line suite" finished-at="2024-01-04T06:47:41Z" duration-ms="24356">
+    <groups>
+    </groups>
+    <test started-at="2024-01-04T06:47:16Z" name="Command line test" finished-at="2024-01-04T06:47:41Z" duration-ms="24356">
+      <class name="Sai.GoogleTestTest">
+        <test-method signature="googleTest()[pri:0, instance:Sai.GoogleTestTest@479d31f3]" started-at="2024-01-04T06:47:34Z" name="googleTest" finished-at="2024-01-04T06:47:41Z" duration-ms="6186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+      </class> <!-- Sai.GoogleTestTest -->
+      <class name="Sai.FlipkartTest">
+        <test-method signature="flipkartTest()[pri:0, instance:Sai.FlipkartTest@333291e3]" started-at="2024-01-04T06:47:16Z" name="flipkartTest" finished-at="2024-01-04T06:47:34Z" duration-ms="18145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartTest -->
+      </class> <!-- Sai.FlipkartTest -->
+      <class name="Sai.OtpTest">
+        <test-method signature="getOtpTest()[pri:0, instance:Sai.OtpTest@40ef3420]" started-at="2024-01-04T06:47:41Z" name="getOtpTest" finished-at="2024-01-04T06:47:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOtpTest -->
+      </class> <!-- Sai.OtpTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
